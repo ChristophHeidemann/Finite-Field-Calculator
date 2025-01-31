@@ -14,7 +14,7 @@ A C# calculator for computations in finite fields, realised for polynomials and 
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ChristophHeidemann/Finite-Field-Calculator.git
    ```
 2. **Open the project in Visual Studio**  
 3. **Build and run the project**  
